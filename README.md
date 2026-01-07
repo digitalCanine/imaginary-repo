@@ -9,7 +9,7 @@ Add to `/etc/pacman.conf`:
 ```
 [imaginary]
 SigLevel = Optional TrustAll
-Server = https://github.com/digitalcanine/imaginary-repo/releases/download/packages/$arch
+Server = https://github.com/digitalcanine/imaginary-repo/releases/download/packages
 ```
 
 Then run:
