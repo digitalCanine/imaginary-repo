@@ -22,6 +22,7 @@ sudo pacman -S imaginary-angel
 ## Current Packages
 
 - **imaginary-angel** v1.0 - System guardian and maintenance tool
+- **imaginary-release** - Script that automatically changes the release of Imaginary Linux
 
 ## Updating Packages
 
